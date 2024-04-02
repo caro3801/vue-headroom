@@ -1,6 +1,6 @@
 # vue-headroom [![npm package](https://img.shields.io/npm/v/vue-headroom.svg)](https://www.npmjs.com/package/vue-headroom)
 
-> Headroom for Vuejs.
+> Headroom for Vue3.
 
 # Requirements
 
